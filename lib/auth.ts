@@ -37,4 +37,4 @@ export const removeAuthToken = () => {
 }
 
 // API base URL - to be configured with environment variable
-export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://testejavags-2.onrender.com"
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://testejavags-2.onrender.com/usuario"

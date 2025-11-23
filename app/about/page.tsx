@@ -64,7 +64,7 @@ export default function AboutPage() {
                   grande oportunidade.
                 </p>
               </div>
-            </div>
+            </div>0
             <div className="flex flex-col gap-4 text-pretty leading-relaxed">
               <p>
                 Mas por que um estilo que nos remete aos anos 1940? Em uma era de constante inovação tecnológica, onde

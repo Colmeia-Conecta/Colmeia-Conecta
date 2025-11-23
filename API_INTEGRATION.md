@@ -12,7 +12,7 @@ A aplicação está configurada para se conectar com a API Java hospedada em:
 A URL da API é configurada através da variável de ambiente `NEXT_PUBLIC_API_URL`:
 
 \`\`\`env
-NEXT_PUBLIC_API_URL=https://testejavags-2.onrender.com
+NEXT_PUBLIC_API_URL=https://testejavags-2.onrender.com/usuario
 \`\`\`
 
 Se você precisar alterar a URL (por exemplo, para desenvolvimento local), você pode:
